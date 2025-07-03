@@ -8,7 +8,7 @@ import PrivateRoutes from './utils/PrivateRoutes';
 import RoleBaseRoutes from './utils/RoleBaseRoutes';
 
 import AdminSummary from './components/dashboard/AdminSummary';
-import DepartmentList from './components/department/departmentList';
+import DepartmentList from './components/department/DepartmentList';
 import AddDepartment from './components/department/AddDepartment';
 import EditDepartment from './components/department/EditDeparment';
 import List from './components/employee/List';
